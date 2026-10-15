@@ -1,6 +1,6 @@
 cask "zume-editor" do
   version "0.30.0"
-  sha256 "7924c714a531f65ed8514413112a55984766aa41a91a15f7b6d2a39fa81f164d"
+  sha256 "3c9d658f8934f2d1aa34db89a7946bbeb20a5e603d1eb83478553073b5f09261"
 
   url "https://github.com/zume-editor-dev/zume-editor-releases/releases/download/v#{version}/zume-editor-#{version}-macos-arm64.dmg",
       verified: "github.com/zume-editor-dev/zume-editor-releases/"
